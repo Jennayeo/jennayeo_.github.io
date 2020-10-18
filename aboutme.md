@@ -1,16 +1,26 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+# subtitle:
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Education
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Michigan State University'19
+Bachelor of Arts in Hospitality Business
 
-What else do you need?
+- Kents Hill School
+Highschool Diploma
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Work Experience
+
+- MICE Business Department Associate
+BEXCO
+Busan, South Korean
+July.2019 - Oct.2019
+
+- Room Sales & Reservation
+Candlewood Suites by Intercontinental Hotel Group
+Michigan, USA
+Sep.2018 - May.2019
