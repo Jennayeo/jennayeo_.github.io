@@ -10,12 +10,14 @@ title: Jiyoung Jenna Yeo
 picture: banner.jpg
 
 # Your name to show in the footer
-# author: Some Person
+author: Jiyoung Jenna Yeo
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
+  Project: "project"
+  Jennatv: "jennatv"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
